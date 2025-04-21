@@ -1,20 +1,55 @@
-Electronics Technician with Specialization in Additive Manufacturing | US Naval Academy || Pursuing MEng in Additive Manufacturing | Penn State World Campus
+# Hi, I'm Zachary Cohen
 
-Transitioning from a background in high school engineering education to a role as electronics technician in the Weapons, Robotics, and Controls Engineering Department at the United States Naval Academy, I have honed a unique blend of practical experience and academic skills in the field of engineering. Currently I'm supporting classes and assisting students while contributing to research projects for the Navy. My expertise lies in engineering design, additive manufacturing, and electronics, underpinned by a solid foundation in general engineering principles.
+**Systems Technologist | Embedded Systems & PCB Design | Engineering Educator**
 
-Parallel to my professional work, I am advancing my academic credentials by pursuing a Master's in Engineering in Additive Manufacturing and Design from Penn State World Campus. My academic focus is deeply rooted in generative design and additive manufacturing with polymers, areas that I am not only passionate about but also see as the future of our industry.
+Welcome to my GitHub! I'm a multidisciplinary engineering professional and educator with deep expertise in embedded systems, circuit design, additive manufacturing, and systems integration. I currently support hands-on engineering research, instruction, and prototyping at the United States Naval Academy in the Weapons, Robotics, and Control Engineering Department.
 
-A distinctive strength of mine is my proficiency in Autodesk Fusion and other CAD programs. I primarily utilize Fusion for intricate engineering and generative design tasks. My ability to juggle multiple projects simultaneously while addressing complex engineering challenges has been a key factor in my professional growth.
+---
 
-I am driven by a commitment to continuous learning and improvement, aiming to further both my professional capabilities and personal growth. As I navigate through the evolving landscape of engineering and technology, my goal remains to contribute meaningfully to the field and to remain at the forefront of innovation in additive manufacturing and design.
+## 🔧 What I Do
 
-🔭 Currently working on as of 11/20/23:
-- Redesigned Nerf blaster for pan tilt mechanism in classroom
-- Upgrading the hotend and extruder of our [Filament Innovations Poseidon printer](https://github.com/zcohenld/USNA_WRCE_POSEIDON)
-- Designing a new thruster and mounting system for a Kingfisher catermaran hull
-- Many other minor projects
+- **Custom Embedded Systems**  
+  Raspberry Pi (Pico/4/5), STM32, ESP32, MicroPython, C/C++
 
-🌱 Currently learning as of 11/20/23:
-- Attempting to learn python but failing miserably
-- Better implementation of ChatGPT 4 in work and grad classes
-- More effective generative design in Autodesk Fusion
+- **Circuit Design & PCB Development**  
+  Fusion 360 Electronics, KiCAD, CAN bus, sensor integration, power systems
+
+- **Mechanical Design & Prototyping**  
+  SolidWorks, Fusion 360, FDM/SLA 3D printing, DFAM/DFM principles
+
+- **STEM Education & Outreach**  
+  Adjunct Professor at AACC | Former FIRST Robotics Lead Mentor and current volunteer | Curriculum Developer
+
+---
+
+## ⚙️ Notable Projects
+
+- **[SENTRY Autonomous Turret](#)**  
+  Educational pan-tilt NERF turret for teaching embedded systems, PID control, and sensor integration. Used by over 100 students annually.
+
+- **Swarm Robotics Testbed**  
+  Fleet of 20+ autonomous research vessels with dual Raspberry Pi 4s and distributed control systems for marine autonomy experimentation.
+
+- **ESP32 CAN-FD Drone Platform**  
+  Lightweight modular drone control system using custom PCBs, CAN bus, and distributed sensor/actuator management.
+
+- **Custom Engineering Labs**  
+  Designed and led development of fabrication labs for secondary and postsecondary education, integrating electronics, additive manufacturing, and CAD.
+
+---
+
+## 📚 Currently Working On
+
+- Advancing my **M.Eng. in Engineering Management** at Old Dominion University  
+- Redesigning electronics lab infrastructure at USNA  
+- Publishing open-source educational tools and documentation  
+- Exploring ways to scale FIRST-style mentorship into higher ed
+
+---
+
+## 🤝 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/Zachary-Cohen-nerd)
+- Email: zcohenld@gmail.com
+
+Thanks for stopping by!
