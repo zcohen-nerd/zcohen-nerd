@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a multidisciplinary engineering professional and educa
 
 ## ⚙️ Notable Projects
 
-- **[SENTRY Autonomous Turret](#)**  
+- **[SENTRY Autonomous Turret](https://github.com/zcohenld/SENTRY)**  
   Educational pan-tilt NERF turret for teaching embedded systems, PID control, and sensor integration. Used by over 100 students annually.
 
 - **Swarm Robotics Testbed**  
