@@ -1,55 +1,57 @@
-# Hi, I'm Zachary Cohen
+# Hi, I'm Zachary Cohen  
 
-**Systems Technologist | Embedded Systems & PCB Design | Engineering Educator**
+**Electronics Technologist | Embedded Systems & PCB Design | Educator**  
 
-Welcome to my GitHub! I'm a multidisciplinary engineering professional and educator with deep expertise in embedded systems, circuit design, additive manufacturing, and systems integration. I currently support hands-on engineering research, instruction, and prototyping at the United States Naval Academy in the Weapons, Robotics, and Control Engineering Department.
+💡 *Approachable educator & systems thinker — I make complex engineering approachable through open-source projects and tutorials.*  
 
 ---
 
-## 🔧 What I Do
+## 🔧 What I Do  
 
-- **Custom Embedded Systems**  
-  Raspberry Pi (Pico/4/5), STM32, ESP32, MicroPython, C/C++
+- **Embedded Systems**  
+  Raspberry Pi (Pico/4/5), STM32, ESP32, MicroPython, C/C++  
 
-- **Circuit Design & PCB Development**  
-  Fusion 360 Electronics, KiCAD, CAN bus, sensor integration, power systems
+- **PCB Design & Circuit Development**  
+  Fusion 360 Electronics, KiCad, CAN bus, sensor integration, power systems  
 
 - **Mechanical Design & Prototyping**  
-  SolidWorks, Fusion 360, FDM/SLA 3D printing, DFAM/DFM principles
+  SolidWorks, Fusion 360, FDM/SLA 3D printing, DFAM/DFM principles  
 
-- **STEM Education & Outreach**  
-  Adjunct Professor at AACC | Former FIRST Robotics Lead Mentor and current volunteer | Curriculum Developer
+- **STEM Education**  
+  Adjunct Professor at AACC · FIRST Robotics mentor & volunteer · Curriculum developer  
 
 ---
 
-## ⚙️ Notable Projects
+## ⚙️ Notable Projects  
 
 - **[SENTRY Autonomous Turret](https://github.com/zcohenld/SENTRY)**  
-  Educational pan-tilt NERF turret for teaching embedded systems, PID control, and sensor integration. Used by over 100 students annually.
+  Open-source pan-tilt NERF turret for teaching embedded systems, PID control, and sensor integration.  
 
 - **Swarm Robotics Testbed**  
-  Fleet of 20+ autonomous research vessels with dual Raspberry Pi 4s and distributed control systems for marine autonomy experimentation.
+  20+ autonomous vessels with dual Raspberry Pi 4s for distributed marine autonomy research.  
 
 - **ESP32 CAN-FD Drone Platform**  
-  Lightweight modular drone control system using custom PCBs, CAN bus, and distributed sensor/actuator management.
+  Modular drone controller using custom PCBs, CAN bus, and distributed sensor/actuator management.  
 
 - **Custom Engineering Labs**  
-  Designed and led development of fabrication labs for secondary and postsecondary education, integrating electronics, additive manufacturing, and CAD.
+  Designed fabrication labs for secondary and postsecondary education, integrating electronics, additive manufacturing, and CAD.  
 
 ---
 
-## 📚 Currently Working On
-
+## 📚 Currently Working On  
+- **[Fusion System Blocks](https://github.com/zcohen-nerd/Fusion_System_Blocks)**  
+  A Fusion 360 add-in for native block diagramming and system-level design integration — bridging architecture and implementation.
+  
 - Advancing my **M.Eng. in Engineering Management** at Old Dominion University  
 - Redesigning electronics lab infrastructure at USNA  
-- Publishing open-source educational tools and documentation  
-- Exploring ways to scale FIRST-style mentorship into higher ed
+- Publishing open-source educational tools and tutorials  
+- Expanding project-based mechatronics education resources  
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let’s Connect  
 
-- [LinkedIn](https://www.linkedin.com/in/Zachary-Cohen-nerd)
-- Email: zcohenld@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/zachary-cohen-nerd)  
+- 📧 zachary.cohen.nerd@gmail.com  
 
-Thanks for stopping by!
+Thanks for stopping by!  
