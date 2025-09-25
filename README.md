@@ -2,7 +2,7 @@
 
 **Electronics Technologist | Embedded Systems & PCB Design | Educator**  
 
-💡 *Approachable educator & systems thinker — I make complex engineering approachable through open-source projects and tutorials.*  
+💡 *Approachable educator & systems thinker—I make complex engineering approachable through open-source projects and tutorials.*  
 
 ---
 
@@ -12,13 +12,13 @@
   Raspberry Pi (Pico/4/5), STM32, ESP32, MicroPython, C/C++  
 
 - **PCB Design & Circuit Development**  
-  Fusion 360 Electronics, KiCad, CAN bus, sensor integration, power systems  
+  Autodesk Fusion Electronics, CAN bus, sensor integration, power systems  
 
 - **Mechanical Design & Prototyping**  
-  SolidWorks, Fusion 360, FDM/SLA 3D printing, DFAM/DFM principles  
+  SolidWorks, Autodesk Fusion, FDM/SLA 3D printing, DFAM/DFM principles  
 
 - **STEM Education**  
-  Adjunct Professor at AACC · FIRST Robotics mentor & volunteer · Curriculum developer  
+  Electronics Technician in the WRCE department at USNA · Adjunct Professor at AACC · FIRST Robotics mentor & volunteer · Curriculum developer  
 
 ---
 
@@ -40,7 +40,7 @@
 
 ## 📚 Currently Working On  
 - **[Fusion System Blocks](https://github.com/zcohen-nerd/Fusion_System_Blocks)**  
-  A Fusion 360 add-in for native block diagramming and system-level design integration — bridging architecture and implementation.
+  A Fusion add-in for native block diagramming and system-level design integration — bridging architecture and implementation.
   
 - Advancing my **M.Eng. in Engineering Management** at Old Dominion University  
 - Redesigning electronics lab infrastructure at USNA  
