@@ -1,6 +1,6 @@
 # Hi, I'm Zachary Cohen  
 
-**Electronics Technologist | Embedded Systems & PCB Design | Educator**  
+**Senior Electromechanical Engineer | Embedded Systems & PCB Design | Educator**  
 
 💡 *Approachable educator & systems thinker—I make complex engineering approachable through open-source projects and tutorials.*  
 
