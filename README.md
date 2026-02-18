@@ -1,57 +1,64 @@
 # Hi, I'm Zachary Cohen  
 
-**Senior Electromechanical Engineer | Embedded Systems & PCB Design | Educator**  
+**Senior Electromechanical Engineer focused on embedded systems, custom electronics, and integrated hardware platforms.**
 
-💡 *Approachable educator & systems thinker—I make complex engineering approachable through open-source projects and tutorials.*  
+I design and build complete electromechanical systems—from architecture and schematics to PCB layout, firmware bring-up, mechanical integration, and validation.
 
----
-
-## 🔧 What I Do  
-
-- **Embedded Systems**  
-  Raspberry Pi (Pico/4/5), STM32, ESP32, MicroPython, C/C++  
-
-- **PCB Design & Circuit Development**  
-  Autodesk Fusion Electronics, CAN bus, sensor integration, power systems  
-
-- **Mechanical Design & Prototyping**  
-  SolidWorks, Autodesk Fusion, FDM/SLA 3D printing, DFAM/DFM principles  
-
-- **STEM Education**  
-  Electronics Technician in the WRCE department at USNA · Adjunct Professor at AACC · FIRST Robotics mentor & volunteer · Curriculum developer  
+My work lives at the intersection of electronics, mechanics, and software, with a focus on robustness, clarity, and real-world deployment. Many of my projects are open-source and designed to make complex engineering systems easier to understand and build.
 
 ---
 
-## ⚙️ Notable Projects  
+## What I Build  
 
-- **[SENTRY Autonomous Turret](https://github.com/zcohenld/SENTRY)**  
-  Open-source pan-tilt NERF turret for teaching embedded systems, PID control, and sensor integration.  
+### Embedded Systems  
+STM32, RP2040, ESP32, Raspberry Pi  
+C/C++ · MicroPython · hardware bring-up, debugging, and system integration  
 
-- **Swarm Robotics Testbed**  
-  20+ autonomous vessels with dual Raspberry Pi 4s for distributed marine autonomy research.  
+### Custom Electronics & PCB Design  
+Autodesk Fusion Electronics · power systems · CAN bus · sensor integration  
+Signal integrity · protection design · multi-voltage system architecture  
 
-- **ESP32 CAN-FD Drone Platform**  
-  Modular drone controller using custom PCBs, CAN bus, and distributed sensor/actuator management.  
+### Electromechanical System Design  
+SolidWorks, Autodesk Fusion  
+Actuator integration · enclosures · manufacturing-ready hardware  
 
-- **Custom Engineering Labs**  
-  Designed fabrication labs for secondary and postsecondary education, integrating electronics, additive manufacturing, and CAD.  
-
----
-
-## 📚 Currently Working On  
-- **[Fusion System Blocks](https://github.com/zcohen-nerd/Fusion_System_Blocks)**  
-  A Fusion add-in for native block diagramming and system-level design integration — bridging architecture and implementation.
-  
-- Advancing my **M.Eng. in Engineering Management** at Old Dominion University  
-- Redesigning electronics lab infrastructure at USNA  
-- Publishing open-source educational tools and tutorials  
-- Expanding project-based mechatronics education resources  
+### Engineering Tools & Infrastructure  
+Development boards, lab tools, and open-source hardware designed to improve engineering workflows and reliability  
 
 ---
 
-## 🤝 Let’s Connect  
+## Selected Projects  
 
-- [LinkedIn](https://www.linkedin.com/in/zachary-cohen-nerd)  
-- 📧 zachary.cohen.nerd@gmail.com  
+### [SENTRY Autonomous Turret](https://github.com/zcohenld/SENTRY)  
+Embedded mechatronics platform designed to teach system integration, motor control, sensing, and real-time control.  
+Includes custom PCBs, embedded firmware, and full electromechanical integration.
 
-Thanks for stopping by!  
+### [Fusion System Blocks](https://github.com/zcohen-nerd/Fusion_System_Blocks)  
+Fusion add-in enabling native block diagramming and system-level architecture directly inside CAD.  
+Bridges the gap between system design and implementation.
+
+### Swarm Robotics Testbed  
+Distributed fleet of autonomous marine vessels using embedded control systems, custom electronics, and modular system architecture for autonomy research and education.
+
+### Custom Embedded and Hardware Platforms  
+Development boards, drone control systems, lab instrumentation, and engineering tools designed for robustness, clarity, and real-world use.
+
+---
+
+## Current Focus  
+
+- Open-source hardware and embedded system tools  
+- System-level design tools that bridge architecture and implementation  
+- Robust PCB and embedded platform design  
+- Advancing my M.Eng. in Engineering Management at Old Dominion University  
+
+---
+
+## Connect  
+
+LinkedIn: https://www.linkedin.com/in/zachary-cohen-nerd  
+Email: zachary.cohen.nerd@gmail.com  
+
+---
+
+If you explore my repositories, you'll find complete engineering systems—not just code, but schematics, PCB layouts, firmware, and documentation.
