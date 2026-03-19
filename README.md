@@ -56,8 +56,9 @@ Development boards, drone control systems, lab instrumentation, and engineering 
 
 ## Connect  
 
+Portfolio: http://www.zcohen-nerd.com
 LinkedIn: https://www.linkedin.com/in/zachary-cohen-nerd  
-Email: zachary.cohen.nerd@gmail.com  
+Email: zachary@zcohen-nerd.com 
 
 ---
 
