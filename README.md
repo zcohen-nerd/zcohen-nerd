@@ -1,65 +1,102 @@
-# Hi, I'm Zachary Cohen  
+# Hi, I’m Zachary Cohen
 
-**Senior Electromechanical Engineer focused on embedded systems, custom electronics, and integrated hardware platforms.**
+**Senior Electromechanical Systems Engineer focused on embedded systems, custom electronics, mechatronics, and practical engineering tools.**
 
-I design and build complete electromechanical systems—from architecture and schematics to PCB layout, firmware bring-up, mechanical integration, and validation.
+I design and build integrated hardware systems that combine electronics, mechanics, firmware, controls, and documentation. My work usually lives somewhere between a PCB, a CAD model, a wiring harness, a test bench, and a mildly overbuilt Notion page.
 
-My work lives at the intersection of electronics, mechanics, and software, with a focus on robustness, clarity, and real-world deployment. Many of my projects are open-source and designed to make complex engineering systems easier to understand and build.
+My focus is on making complex engineering systems easier to understand, build, debug, teach, and maintain.
 
----
-
-## What I Build  
-
-### Embedded Systems  
-STM32, RP2040, ESP32, Raspberry Pi  
-C/C++ · MicroPython · hardware bring-up, debugging, and system integration  
-
-### Custom Electronics & PCB Design  
-Autodesk Fusion Electronics · power systems · CAN bus · sensor integration  
-Signal integrity · protection design · multi-voltage system architecture  
-
-### Electromechanical System Design  
-SolidWorks, Autodesk Fusion  
-Actuator integration · enclosures · manufacturing-ready hardware  
-
-### Engineering Tools & Infrastructure  
-Development boards, lab tools, and open-source hardware designed to improve engineering workflows and reliability  
+[Landing Site](https://www.zcohen-nerd.com) · [Portfolio](https://www.zcohen-nerd.com) · [LinkedIn](https://www.linkedin.com/in/zachary-cohen-nerd)
 
 ---
 
-## Selected Projects  
+## What I Build
 
-### [SENTRY Autonomous Turret](https://github.com/zcohenld/SENTRY)  
-Embedded mechatronics platform designed to teach system integration, motor control, sensing, and real-time control.  
-Includes custom PCBs, embedded firmware, and full electromechanical integration.
+### Embedded Systems
 
-### [Fusion System Blocks](https://github.com/zcohen-nerd/Fusion_System_Blocks)  
-Fusion add-in enabling native block diagramming and system-level architecture directly inside CAD.  
-Bridges the gap between system design and implementation.
+STM32 · RP2040 · ESP32 · Raspberry Pi · Teensy
+C/C++ · MicroPython · hardware bring-up · debugging · system integration
 
-### Swarm Robotics Testbed  
-Distributed fleet of autonomous marine vessels using embedded control systems, custom electronics, and modular system architecture for autonomy research and education.
+I work on embedded platforms that connect sensors, actuators, power systems, communication buses, and user interfaces into complete working systems.
 
-### Custom Embedded and Hardware Platforms  
-Development boards, drone control systems, lab instrumentation, and engineering tools designed for robustness, clarity, and real-world use.
+### Custom Electronics & PCB Design
 
----
+Autodesk Fusion Electronics · KiCad-adjacent workflows · CAN bus · sensor interfaces · protection circuits · mixed-voltage systems
 
-## Current Focus  
+I design PCBs for development tools, embedded controllers, robotics platforms, lab equipment, and electromechanical prototypes.
 
-- Open-source hardware and embedded system tools  
-- System-level design tools that bridge architecture and implementation  
-- Robust PCB and embedded platform design  
-- Advancing my M.Eng. in Engineering Management at Old Dominion University  
+### Electromechanical Systems
 
----
+SolidWorks · Autodesk Fusion · additive manufacturing · enclosures · mechanisms · wiring · integration
 
-## Connect  
+I care a lot about the messy middle between “the schematic works,” “the CAD fits,” and “the assembled system survives real use.”
 
-Portfolio: http://www.zcohen-nerd.com
-LinkedIn: https://www.linkedin.com/in/zachary-cohen-nerd  
-Email: zachary@zcohen-nerd.com 
+### Engineering Tools & Documentation
+
+Open-source hardware · field guides · teaching tools · system diagrams · design review checklists
+
+A lot of my work is about turning engineering knowledge into tools, templates, and documentation that other people can actually use.
 
 ---
 
-If you explore my repositories, you'll find complete engineering systems—not just code, but schematics, PCB layouts, firmware, and documentation.
+## Selected Projects
+
+### [SENTRY Autonomous Turret](https://github.com/zcohenld/SENTRY)
+
+An embedded mechatronics platform designed to teach system integration, motor control, sensing, embedded firmware, and real-time control.
+
+Includes custom electronics, embedded software, mechanical design, and full-system integration.
+
+### [Fusion System Blocks](https://github.com/zcohen-nerd/Fusion_System_Blocks)
+
+A Fusion add-in for creating system block diagrams and architecture documentation directly inside the CAD workflow.
+
+Built to help bridge the gap between early system architecture and implementation-level design.
+
+### [Connector Engineering Field Guide](https://zcohen-nerd.github.io/connector-engineering-field-guide/)
+
+A practical open-source guide for engineers who need to select, specify, document, and review connectors.
+
+Built after realizing that connector knowledge is everywhere and nowhere at the same time.
+
+### SPARK Embedded Debug Tooling
+
+An open-source hardware project focused on making embedded bring-up, SWD/JTAG access, UART debugging, power control, and protected lab workflows cleaner and more reliable.
+
+### Literacy for Kids
+
+A growing collection of open educational projects designed to help kids build real-world literacy in computing, money, systems thinking, media, civics, health, and more.
+
+---
+
+## Current Focus
+
+* Open-source hardware for embedded systems and lab workflows
+* Practical engineering documentation and reusable design templates
+* System-level tools that connect architecture, CAD, electronics, and implementation
+* Educational engineering projects for students, interns, and early-career engineers
+* Advancing my M.Eng. in Engineering Management at Old Dominion University
+
+---
+
+## Engineering Interests
+
+* Embedded systems and hardware bring-up
+* PCB design and electromechanical integration
+* Robotics, controls, and autonomous systems
+* Additive manufacturing and rapid prototyping
+* Engineering education and technical documentation
+* Home automation, instrumentation, and useful overengineering
+
+---
+
+## Connect
+
+* Website: [zcohen-nerd.com](https://www.zcohen-nerd.com)
+* Portfolio: [zcohen-nerd.com](https://www.zcohen-nerd.com)
+* LinkedIn: [linkedin.com/in/zachary-cohen-nerd](https://www.linkedin.com/in/zachary-cohen-nerd)
+* Email: [zachary@zcohen-nerd.com](mailto:zachary@zcohen-nerd.com)
+
+---
+
+If you explore my repositories, you’ll find more than code. You’ll find complete engineering systems: schematics, PCB layouts, firmware, CAD, documentation, design notes, and the occasional “this should probably be a reusable tool” rabbit hole.
