@@ -6,7 +6,21 @@ I design and build integrated hardware systems that combine electronics, mechani
 
 My focus is on making complex engineering systems easier to understand, build, debug, teach, and maintain.
 
-[Landing Site](https://www.zcohen-nerd.com) · [Portfolio](https://www.zcohen-nerd.com) · [LinkedIn](https://www.linkedin.com/in/zachary-cohen-nerd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zcohen--nerd.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.zcohen-nerd.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zachary%20Cohen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-cohen-nerd)
+[![Email](https://img.shields.io/badge/Email-zachary%40zcohen--nerd.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zachary@zcohen-nerd.com)
+
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MicroPython](https://img.shields.io/badge/-MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Autodesk Fusion](https://img.shields.io/badge/-Autodesk%20Fusion-F98925?style=flat-square&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-E4322D?style=flat-square)
+![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -39,31 +53,46 @@ A lot of my work is about turning engineering knowledge into tools, templates, a
 
 ---
 
+## How I Work
+
+* **Documentation is part of the design, not an afterthought.** Schematics, CAD, firmware, and the reasoning behind them live together, so a project is still buildable and debuggable after I've forgotten the details.
+* **Systems thinking over discipline silos.** Mechanical, electrical, firmware, and docs are treated as one system with defined interfaces — not separate handoffs where problems get discovered at integration.
+* **Design for manufacturability and maintainability, not just "it works on the bench."** Tolerances, sourcing, assembly order, and field serviceability get considered before a design is called done.
+* **Validate against real hardware early.** CAD and schematics are hypotheses until a prototype proves them; I try to get to a test bench fast rather than iterating purely on paper.
+* **Build tools once, reuse everywhere.** If I solve a problem twice, the second time becomes a template, add-in, or checklist instead of a one-off hack.
+
+---
+
 ## Selected Projects
 
 ### [SENTRY Autonomous Turret](https://github.com/zcohenld/SENTRY)
+`Embedded Firmware` `Motor Control` `Mechatronics` `Real-Time Systems`
 
 An embedded mechatronics platform designed to teach system integration, motor control, sensing, embedded firmware, and real-time control.
 
 Includes custom electronics, embedded software, mechanical design, and full-system integration.
 
 ### [Fusion System Blocks](https://github.com/zcohen-nerd/Fusion_System_Blocks)
+`Fusion 360 Add-in` `Python` `System Architecture Tooling`
 
 A Fusion add-in for creating system block diagrams and architecture documentation directly inside the CAD workflow.
 
 Built to help bridge the gap between early system architecture and implementation-level design.
 
 ### [Connector Engineering Field Guide](https://zcohen-nerd.github.io/connector-engineering-field-guide/)
+`Documentation` `Open Reference` `GitHub Pages`
 
 A practical open-source guide for engineers who need to select, specify, document, and review connectors.
 
 Built after realizing that connector knowledge is everywhere and nowhere at the same time.
 
 ### SPARK Embedded Debug Tooling
+`Open Hardware` `SWD/JTAG` `UART` `Lab Tooling`
 
 An open-source hardware project focused on making embedded bring-up, SWD/JTAG access, UART debugging, power control, and protected lab workflows cleaner and more reliable.
 
 ### Literacy for Kids
+`Education` `Open Curriculum`
 
 A growing collection of open educational projects designed to help kids build real-world literacy in computing, money, systems thinking, media, civics, health, and more.
 
@@ -92,10 +121,9 @@ A growing collection of open educational projects designed to help kids build re
 
 ## Connect
 
-* Website: [zcohen-nerd.com](https://www.zcohen-nerd.com)
-* Portfolio: [zcohen-nerd.com](https://www.zcohen-nerd.com)
-* LinkedIn: [linkedin.com/in/zachary-cohen-nerd](https://www.linkedin.com/in/zachary-cohen-nerd)
-* Email: [zachary@zcohen-nerd.com](mailto:zachary@zcohen-nerd.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zcohen--nerd.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.zcohen-nerd.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zachary%20Cohen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-cohen-nerd)
+[![Email](https://img.shields.io/badge/Email-zachary%40zcohen--nerd.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zachary@zcohen-nerd.com)
 
 ---
 
